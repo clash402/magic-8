@@ -56,12 +56,12 @@
 		1C650C212631BEA100D432B2 /* magic-8 */ = {
 			isa = PBXGroup;
 			children = (
+				1C650C2D2631BEA800D432B2 /* LaunchScreen.storyboard */,
+				1C650C282631BEA100D432B2 /* Main.storyboard */,
 				1C650C222631BEA100D432B2 /* AppDelegate.swift */,
 				1C650C242631BEA100D432B2 /* SceneDelegate.swift */,
 				1C650C262631BEA100D432B2 /* ViewController.swift */,
-				1C650C282631BEA100D432B2 /* Main.storyboard */,
 				1C650C2B2631BEA800D432B2 /* Assets.xcassets */,
-				1C650C2D2631BEA800D432B2 /* LaunchScreen.storyboard */,
 				1C650C302631BEA800D432B2 /* Info.plist */,
 			);
 			path = "magic-8";
@@ -289,6 +289,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9YBQ5S77GM;
 				INFOPLIST_FILE = "magic-8/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -308,6 +309,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9YBQ5S77GM;
 				INFOPLIST_FILE = "magic-8/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
